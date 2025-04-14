@@ -1,0 +1,2 @@
+../Core/Src/dht22.c:12:6:DHT22_DelayUs	2
+../Core/Src/dht22.c:35:14:DHT22_ReadData	13
